@@ -1,0 +1,7 @@
+#the-list>.draggable-tr.over{
+    background-color: #fff0f0;
+}
+
+.draggable-tr{
+    cursor: move;
+}
